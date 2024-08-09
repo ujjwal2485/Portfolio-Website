@@ -9,7 +9,7 @@ body {
     background-image: url("pp.jpg");
 	background-size: cover;
     display: flex;
-    flex-direction: column;
+    flex-direction: column; 
     justify-content: center;
     align-items: center;
 
